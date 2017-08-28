@@ -1,6 +1,4 @@
-# 현명한자들만을 위한 README 
-
-가끔 어리석어지는 방법은 아래와 같습니다 
+# 가끔 어리석어지는 방법은 아래와 같습니다 
 
 1. install node.js (https://nodejs.org/ko/download/package-manager/)
 2. install hexo-cli (https://hexo.io/)
