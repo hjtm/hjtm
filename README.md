@@ -11,5 +11,7 @@
 
 ## 주의 사항
 
-1. your post file should be source/{your_github_id}/{some_ascii_file_name}.md 
-2. when publishing, push to hjtm/hjtm.github.io directly. NO PR. THANX. 
+0. register your public key in hjtm.github.io repository before deploy
+1. your post file should be source/{your_github_id}/{some_ascii_file_name}.md
+2. when publishing, push to hjtm/hjtm.github.io directly. NO PR. THANX.
+

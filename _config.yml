@@ -91,4 +91,4 @@ archive_generator:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: "git@github.com:hjtm/hjtm.git"
+  repo: "git@github.com:hjtm/hjtm.github.io.git"
